@@ -1,0 +1,17 @@
+C:\Users\jsaracad\OneDrive - Johnson Controls\Desktop\C# Projeler\NKatmanliMimari\bin\Debug\NKatmanliMimari.exe.config
+C:\Users\jsaracad\OneDrive - Johnson Controls\Desktop\C# Projeler\NKatmanliMimari\bin\Debug\NKatmanliMimari.exe
+C:\Users\jsaracad\OneDrive - Johnson Controls\Desktop\C# Projeler\NKatmanliMimari\bin\Debug\NKatmanliMimari.pdb
+C:\Users\jsaracad\OneDrive - Johnson Controls\Desktop\C# Projeler\NKatmanliMimari\bin\Debug\DataAccessLayer.dll
+C:\Users\jsaracad\OneDrive - Johnson Controls\Desktop\C# Projeler\NKatmanliMimari\bin\Debug\EntitiyLayer.dll
+C:\Users\jsaracad\OneDrive - Johnson Controls\Desktop\C# Projeler\NKatmanliMimari\bin\Debug\LogicLayer.dll
+C:\Users\jsaracad\OneDrive - Johnson Controls\Desktop\C# Projeler\NKatmanliMimari\bin\Debug\DataAccessLayer.pdb
+C:\Users\jsaracad\OneDrive - Johnson Controls\Desktop\C# Projeler\NKatmanliMimari\bin\Debug\EntitiyLayer.pdb
+C:\Users\jsaracad\OneDrive - Johnson Controls\Desktop\C# Projeler\NKatmanliMimari\bin\Debug\LogicLayer.pdb
+C:\Users\jsaracad\OneDrive - Johnson Controls\Desktop\C# Projeler\NKatmanliMimari\obj\Debug\NKatmanliMimari.csproj.AssemblyReference.cache
+C:\Users\jsaracad\OneDrive - Johnson Controls\Desktop\C# Projeler\NKatmanliMimari\obj\Debug\NKatmanliMimari.Form1.resources
+C:\Users\jsaracad\OneDrive - Johnson Controls\Desktop\C# Projeler\NKatmanliMimari\obj\Debug\NKatmanliMimari.Properties.Resources.resources
+C:\Users\jsaracad\OneDrive - Johnson Controls\Desktop\C# Projeler\NKatmanliMimari\obj\Debug\NKatmanliMimari.csproj.GenerateResource.cache
+C:\Users\jsaracad\OneDrive - Johnson Controls\Desktop\C# Projeler\NKatmanliMimari\obj\Debug\NKatmanliMimari.csproj.CoreCompileInputs.cache
+C:\Users\jsaracad\OneDrive - Johnson Controls\Desktop\C# Projeler\NKatmanliMimari\obj\Debug\NKatmanl.E8C0824F.Up2Date
+C:\Users\jsaracad\OneDrive - Johnson Controls\Desktop\C# Projeler\NKatmanliMimari\obj\Debug\NKatmanliMimari.exe
+C:\Users\jsaracad\OneDrive - Johnson Controls\Desktop\C# Projeler\NKatmanliMimari\obj\Debug\NKatmanliMimari.pdb
